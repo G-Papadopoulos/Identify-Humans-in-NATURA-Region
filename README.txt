@@ -1,9 +1,5 @@
-# Exported dataset for George Papadopoulos / Identify Humans
+"identify-humans-export" has the data downloaded from the project webpage (https://studio.edgeimpulse.com/studio/80560).
 
-To import this data into a new Edge Impulse project, either use:
+Some .png files are also attached for a brief overview.
 
-* The Edge Impulse CLI (https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-overview), run with:
-
-    edge-impulse-uploader --clean --info-file info.labels
-
-* Or, via the Edge Impulse Studio. Go to **Data acquisition > Upload data**.
+This work was part of a team term project, where the goal was to estimate the number of visitors in a NATURA region, respecting the privacy of the visitors (e.g. no cameras allowed).
